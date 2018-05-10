@@ -1,0 +1,11 @@
+// style for all react-layout-components
+.react-layout-components--box {
+  display: flex;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500");
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+// this should really be broken-out into the parts with SCSS
+@import url("https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css");
